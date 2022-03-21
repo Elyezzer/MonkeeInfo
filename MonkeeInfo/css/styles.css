@@ -98,6 +98,9 @@ h3{
     margin-right: -150px;
 }
 
+.message{
+ resize: none;
+}
 
 
 .façaupload-texto{
