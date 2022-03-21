@@ -140,7 +140,7 @@ h3{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     margin-left: 45px;
-    margin-top: 300px;
+    margin-top: 70px;
 
 }
 .reclamaçao{
@@ -150,5 +150,15 @@ h3{
     height: 450x;
     top: 100px;
     margin-right: 100px;
+}
    
+.caixa-de-texto{
+    margin-left: 80px;
+    margin-top: 60px;
+}
+.botao-reclameaqui .button{
+    width:80px;
+    margin-left: 80px;
+    background:#b98303;
+    border-bottom: 3px double #503802;
 }
